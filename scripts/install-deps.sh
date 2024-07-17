@@ -83,7 +83,7 @@ fetch_and_unpack_Catch2()
 
 fetch_and_unpack_fmtlib()
 {
-    fmtlib_version="10.0.0"
+    fmtlib_version="11.0.1"
     fetch_and_unpack \
         fmt-$fmtlib_version \
         fmtlib-$fmtlib_version.tar.gz \
