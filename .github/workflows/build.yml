@@ -236,7 +236,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        os_version: [40]
+        os_version: [rawhide]
         arch:
           [
             "linux/amd64 x86_64"
